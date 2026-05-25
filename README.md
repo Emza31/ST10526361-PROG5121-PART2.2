@@ -4,7 +4,7 @@ PROG5121/PRT2
 ## PROJECT INFORMATION
 THREE classes were created
 login,MainAPP and MessageTest
-QuickApp was being created
+QuickApp was being Created
 a simple messaging app
 
 ## features
